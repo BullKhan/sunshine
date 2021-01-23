@@ -1,3 +1,3 @@
 # sunshine
 
-https://bullkhan.github.io/sunshine
+https://bullkhan.github.io/sunshine/
